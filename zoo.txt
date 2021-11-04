@@ -1,0 +1,6 @@
+HORIZON GRAPHS
+STEM-AND-LEAF PLOTS
+parallel coordinates
+phylogenetic trees
+force-directed layout
+seriation problem
